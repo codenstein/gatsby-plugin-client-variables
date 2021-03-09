@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-plugin-client-variables",
+  "description": "Gatsby plugin to allow server-side runtime environment variables to be made available to client-side scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenstein/gatsby-plugin-client-variables.git"
+  },
+  "author": "Martin Grossi <martin.grossi@enlightenedmouse.com>",
+  "bugs": {
+    "url": "https://github.com/codenstein/gatsby-plugin-client-variables/issues"
+  },
+  "homepage": "https://github.com/codenstein/gatsby-plugin-client-variables#readme",
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "dependencies": {
+    "envsub": "^4.0.7"
+  }
+}
